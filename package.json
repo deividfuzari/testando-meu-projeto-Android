@@ -1,0 +1,15 @@
+{
+  "name": "testando-meu-projeto-android",
+  "version": "1.0.0",
+  "description": "Vou usar o conhecimento que tive em cypress para testar a pagina do projeto android que fiz.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.9.0"
+  }
+}
